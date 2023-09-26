@@ -2,11 +2,7 @@
 
 - 🔭 I’m currently working on https://wakatime.com (<a href="https://wakatime.com/@7a9b7afa-9dd0-42be-bd8f-2ffbe9bbe923"><img src="https://wakatime.com/badge/user/7a9b7afa-9dd0-42be-bd8f-2ffbe9bbe923.svg" alt="Total time coded since May 2 2023" /></a>)
 
-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natawik-B&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hunter-137&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natawik-B&show_icons=true&count_private=true&theme=dracula&show=reviews&hide=contribs,issues)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Natawik-B)](https://github.com/anuraghazra/github-readme-stats)
+- <img src="https://komarev.com/ghpvc/?username=Hunter-137&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Natawik-B/Natawik-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
